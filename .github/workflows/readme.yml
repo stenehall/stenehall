@@ -27,9 +27,7 @@ jobs:
       run: sudo apt-get update && sudo apt-get install -y curl
 
     - name: Install deno
-      env: 
-        DENO_VERSION: v0.20.0
-      run: curl -fsSL https://deno.land/x/install/install.sh | sh -s $DENO_VERSION && ln -s $HOME/.deno/bin/deno /usr/local/bin/deno
+      run: curl -fsSL https://deno.land/x/install/install.sh | sh && ln -s $HOME/.deno/bin/deno /usr/local/bin/deno
 
     - name: Testing deno
       run: deno eval "console.log(30933 + 404)"
