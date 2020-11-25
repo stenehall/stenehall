@@ -10,8 +10,9 @@ const template = `<p align="center">
 </p>
 <h3 align="center">You have been greeted by - <b>${name}</b></h3>
 <h3 align="center">Have a nice day!</h3>
-### Hi there 👋
+
 <!--
+### Hi there 👋
 **stenehall/stenehall** is a ✨ _special_ ✨ repository because its \`README.md\` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
