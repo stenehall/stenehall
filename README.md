@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png" width="150" height="150">
 </p>
-<h3 align="center">You have been greeted by - <b>venomoth</b></h3>
+<h3 align="center">You have been greeted by - <b>ditto</b></h3>
 <h3 align="center">Have a nice day!</h3>
 
 <!--
